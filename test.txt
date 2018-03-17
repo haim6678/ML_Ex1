@@ -1,0 +1,1 @@
+Not (X2),Not (X3),X4,X5,Not (X6)
